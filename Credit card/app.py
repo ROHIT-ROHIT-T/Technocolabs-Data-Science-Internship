@@ -99,7 +99,7 @@ def main():
     html_temp = """
            <div style = "padding: 10px;">
                <center><h2>Made by-</h2>
-               <b><i>Rahul Raj Pandey</i><b></center>
+               <b><i>ROHIT</i><b></center>
            </div><br>
        """
     st.markdown(html_temp, unsafe_allow_html=True)
